@@ -31,6 +31,14 @@
   <li><a href="https://store.steampowered.com/news/app/2953070/view/500574650502219840" target="_blank">Star Child Dev Log #6</a></li>
   <li><a href="https://store.steampowered.com/news/app/2953070/view/500575275933763958" target="_blank">Star Child Dev Log #7</a></li>
   <li><a href="https://store.steampowered.com/news/app/2953070/view/824835185591719100" target="_blank">Star Child Dev Log #8</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500576552635859340" target="_blank">Star Child Dev Log #9</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633220715" target="_blank">Star Child Dev Log #10</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633223799" target="_blank">Star Child Dev Log #11</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/812452998668091407" target="_blank">Star Child Dev Log #12</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579345320902673" target="_blank">Star Child Dev Log #13</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579723494031781" target="_blank">Star Child Dev Log #14</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580357225055576" target="_blank">Star Child Dev Log #15</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580991657575077" target="_blank">Star Child Dev Log #16</a></li>
 </ul>
 
 <a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
@@ -41,6 +49,7 @@
 <a href={toleoUrl}><img src="/toleo/toleo-header.jpg" alt="Check out Toleo on Steam" /></a>
 
 <h2>How to find us</h2>
+<p>Join our official community Discord at <a href="https://discord.gg/yQRADXHvXY">https://discord.gg/yQRADXHvXY</a></p>
 <p>You can find us on various social media</p>
 <ul>
   <li><a href="https://bsky.app/profile/palebluestudios.net">Bluesky</a></li>
