@@ -21,7 +21,7 @@
 </p>
 <p>Check out the <a href="/presskit/starchild/">Press kit</a>.</p>
 
-<a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
+<a href={starChildUrl}><img src="/starchild/partner_share_full_loc.png" alt="Wishlist Star Child on Steam" /></a>
 
 <p>Dev Logs</p>
 <ul>
