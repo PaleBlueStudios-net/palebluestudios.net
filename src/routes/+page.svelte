@@ -21,27 +21,92 @@
 </p>
 <p>Check out the <a href="/presskit/starchild/">Press kit</a>.</p>
 
+<a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
+
 <p>Dev Logs</p>
 <ul>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500571481680380399" target="_blank">Star Child Dev Log #1</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500572113230365186" target="_blank">Star Child Dev Log #2</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500572747038983969" target="_blank">Star Child Dev Log #3</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/655947663575876604" target="_blank">Star Child Dev Log #4</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500574015912412368" target="_blank">Star Child Dev Log #5</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500574650502219840" target="_blank">Star Child Dev Log #6</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500575275933763958" target="_blank">Star Child Dev Log #7</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/824835185591719100" target="_blank">Star Child Dev Log #8</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500576552635859340" target="_blank">Star Child Dev Log #9</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633220715" target="_blank">Star Child Dev Log #10</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633223799" target="_blank">Star Child Dev Log #11</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/812452998668091407" target="_blank">Star Child Dev Log #12</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579345320902673" target="_blank">Star Child Dev Log #13</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579723494031781" target="_blank">Star Child Dev Log #14</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580357225055576" target="_blank">Star Child Dev Log #15</a></li>
-  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580991657575077" target="_blank">Star Child Dev Log #16</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500571481680380399" target="_blank">Star Child Dev
+    Log #1</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500572113230365186" target="_blank">Star Child Dev
+    Log #2</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500572747038983969" target="_blank">Star Child Dev
+    Log #3</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/655947663575876604" target="_blank">Star Child Dev
+    Log #4</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500574015912412368" target="_blank">Star Child Dev
+    Log #5</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500574650502219840" target="_blank">Star Child Dev
+    Log #6</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500575275933763958" target="_blank">Star Child Dev
+    Log #7</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/824835185591719100" target="_blank">Star Child Dev
+    Log #8</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500576552635859340" target="_blank">Star Child Dev
+    Log #9</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633220715" target="_blank">Star Child Dev
+    Log #10</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500577186633223799" target="_blank">Star Child Dev
+    Log #11</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/812452998668091407" target="_blank">Star Child Dev
+    Log #12</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579345320902673" target="_blank">Star Child Dev
+    Log #13</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500579723494031781" target="_blank">Star Child Dev
+    Log #14</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580357225055576" target="_blank">Star Child Dev
+    Log #15</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500580991657575077" target="_blank">Star Child Dev
+    Log #16</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/703243704492622337" target="_blank">Star Child Dev
+    Log #17</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500582260112621894" target="_blank">Star Child Dev
+    Log #18</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500582894620639864" target="_blank">Star Child Dev
+    Log #19</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/500583527919650673" target="_blank">Star Child Dev
+    Log #20</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/600789436615098742" target="_blank">Star Child Dev
+    Log #21</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/507340197095017178" target="_blank">Star Child Dev
+    Log #22</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/507340830949769783" target="_blank">Star Child Dev
+    Log #23</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/507340830949771010" target="_blank">Star Child Dev
+    Log #24</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/550127015582238429" target="_blank">Star Child Dev
+    Log #25</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/506217467911080670" target="_blank">Star Child Dev
+    Log #26</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/591787131954791300" target="_blank">Star Child Dev
+    Log #27</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/633446314062905418" target="_blank">Star Child Dev
+    Log #28</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/585033008523773583" target="_blank">Star Child Dev
+    Log #29</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528738639872524723" target="_blank">Star Child Dev
+    Log #30</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528739274767467862" target="_blank">Star Child Dev
+    Log #31</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/492711197218439695" target="_blank">Star Child Dev
+    Log #32</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528740542771627438" target="_blank">Star Child Dev
+    Log #33</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528740542771628333" target="_blank">Star Child Dev
+    Log #34</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528740542771628711" target="_blank">Star Child Dev
+    Log #35</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/528742445056263486" target="_blank">Star Child Dev
+    Log #36</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/568149678269401536" target="_blank">Star Child Dev
+    Log #37</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/491589650677236850" target="_blank">Star Child Dev
+    Log #38</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/508478783550915287" target="_blank">Star Child Dev
+    Log #39</a></li>
+  <li><a href="https://store.steampowered.com/news/app/2953070/view/509605417596223807" target="_blank">Star Child Dev
+    Log #40</a></li>
 </ul>
 
-<a href={starChildUrl}><img src="/starchild/starchild-header.jpg" alt="Wishlist Star Child on Steam" /></a>
 
 <h2>Toleo</h2>
 <p>Toleo is a fast, fluid and fun pixel-art precision platformer. Run, jump, slide, and flap your way through beautiful,

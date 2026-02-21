@@ -98,6 +98,7 @@
     <Img src="/starchild/starchild-screenshot-6.png" alt="Screenshot of Star Child main character opening a pathway with grenades" />
     <Img src="/starchild/starchild-gif-1.gif" alt="GIF of Star Child exploration gameplay" />
     <Img src="/starchild/starchild-gif-2.gif" alt="GIF of Star Child combat gameplay" />
+    <Img src="/starchild/starchild_demo_178p.gif" alt="GIF of Star Child demo content" />
   {/snippet}
   {#snippet images()}
     <Img src="/starchild/starchild-banner.png" alt="Promo banner art for Star Child" />
